@@ -1,0 +1,30 @@
+@article{guidedog,
+    author = {Tzu-Kuan Chuang and Ni-Ching Lin and Jih-Shi Chen and Chen-Hao Hung and Yi-Wei Huang and Chunchih Teng and Haikun Huang and Lap-Fai Yu and Laura Giarre and Hsueh-Cheng Wang},
+    title = {Deep Trail-Following Robotic Guide Dog in Pedestrian Environments for People who are Blind and Visually Impaired - Learning from Virtual and Real Worlds},
+    journal = {IEEE International Conference on Robotics and Automation},
+    year = {2018}
+}
+
+
+@article{wayfinding,
+    author = {Haikun Huang and Ni-Ching Lin and Lorenzo Barrett and Darian Springer and Hsueh-Cheng Wang and Marc Pomplun and Lap-Fai Yu},
+    title = {Automatic Optimization of Wayfinding Design},
+    journal = {IEEE Transactions on Visualization and Computer Graphics},
+    year = {2017}
+}
+
+@article{exergame,
+    author = {Biao Xie and Yongqi Zhang and Haikun Huang and Elisa Ogawa and Tongjian You and Lap-Fai Yu},
+    title = {Exercise Intensity-driven Level Design},
+    journal = {IEEE Transactions on Visualization and Computer Graphics},
+    year = {2018}
+}
+
+@inproceedings{vrpr,
+  title={Analyzing visual attention via virtual environments},
+  author={Huang, Haikun and Lin, Ni-Ching and Barrett, Lorenzo and Springer, Darian and Wang, Hsueh-Cheng and Pomplun, Marc and Yu, Lap-Fai},
+  booktitle={SIGGRAPH ASIA 2016 Virtual Reality meets Physical Reality: Modelling and Simulating Virtual Humans and Environments},
+  pages={8},
+  year={2016},
+  organization={ACM}
+}
