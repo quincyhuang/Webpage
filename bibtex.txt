@@ -1,3 +1,19 @@
+
+@inproceedings{ambient,
+author = "Haikun Huang and Michael S. Solah and Dingzeyu Li and Lap-Fai Yu",
+title = "Audible Panorama: Automatic Spatial Audio Generation for Panorama Imagery",
+booktitle = "Proceedings of the 37th Annual ACM Conference on Human Factors in Computing Systems",
+year = "2019"
+}
+
+@inproceedings{level2,
+author = "Yongqi Zhang and Biao Xie and Haikun Huang and Elisa Ogawa and Tongjian You and Lap-Fai Yu",
+title = "Pose-Guided Level Design",
+booktitle = "Proceedings of the 37th Annual ACM Conference on Human Factors in Computing Systems",
+year = "2019"
+}
+
+
 @article{guidedog,
     author = {Tzu-Kuan Chuang and Ni-Ching Lin and Jih-Shi Chen and Chen-Hao Hung and Yi-Wei Huang and Chunchih Teng and Haikun Huang and Lap-Fai Yu and Laura Giarre and Hsueh-Cheng Wang},
     title = {Deep Trail-Following Robotic Guide Dog in Pedestrian Environments for People who are Blind and Visually Impaired - Learning from Virtual and Real Worlds},
