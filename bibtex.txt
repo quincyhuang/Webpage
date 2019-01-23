@@ -13,6 +13,18 @@ booktitle = "Proceedings of the 37th Annual ACM Conference on Human Factors in C
 year = "2019"
 }
 
+@inproceedings{lostvr,
+author={Alghofaili, Rawan and Sawahata, Yasuhito and Huang, Haikun
+and Wang, Hsueh-Cheng and Shiratori, Takaaki and Yu, Lap Fai}, 
+title={Lost in Style: Gaze-driven Adaptive Aid for VR Navigation}, 
+booktitle={Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems},
+series = {CHI '19},
+year=2019, 
+publisher = {ACM},
+location={Glasgow, UK}, 
+keywords={Games/Play, Virtual/Augmented Reality, Eye Tracking}
+}
+
 
 @article{guidedog,
     author = {Tzu-Kuan Chuang and Ni-Ching Lin and Jih-Shi Chen and Chen-Hao Hung and Yi-Wei Huang and Chunchih Teng and Haikun Huang and Lap-Fai Yu and Laura Giarre and Hsueh-Cheng Wang},
