@@ -13,6 +13,16 @@ booktitle = "Proceedings of the 37th Annual ACM Conference on Human Factors in C
 year = "2019"
 }
 
+@inproceedings{vr19,
+author={Alghofaili, Rawan and Solah, Michael and Huang, Haikun and Sawahata, Yasuhito 
+and Pomplun, Marc and Yu, Lap-Fai}, 
+title={Optimizing Visual Element Placement via Visual Attention Analysis}, 
+booktitle={IEEE Virtual Reality},
+year=2019,
+location={Osaka, Japan}
+}
+
+
 @inproceedings{lostvr,
 author={Alghofaili, Rawan and Sawahata, Yasuhito and Huang, Haikun
 and Wang, Hsueh-Cheng and Shiratori, Takaaki and Yu, Lap Fai}, 
