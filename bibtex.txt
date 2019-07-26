@@ -66,3 +66,16 @@ keywords={Games/Play, Virtual/Augmented Reality, Eye Tracking}
   year={2016},
   organization={ACM}
 }
+
+
+
+@article{article,
+author = {Ogawa, Elisa and Huang, Haikun and Yu, Lap-Fai and Gona, Philimon and K. Fleming, Richard and Leveille, Suzanne and You, Tongjian},
+year = {2019},
+month = {06},
+pages = {618},
+title = {Effects Of Exergaming On Cognition And Dual-task Mobility In Older Adults At Risk For Falling: 2259 Board #6 May 31 9:30 AM - 11:30 AM},
+volume = {51},
+journal = {Medicine & Science in Sports & Exercise},
+doi = {10.1249/01.mss.0000562348.10264.5a}
+}
