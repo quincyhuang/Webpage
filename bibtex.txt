@@ -79,3 +79,12 @@ volume = {51},
 journal = {Medicine & Science in Sports & Exercise},
 doi = {10.1249/01.mss.0000562348.10264.5a}
 }
+
+@article{exertion,
+author={Wanwan Li, Biao Xie, Yongqi Zhang, Walter Meiss, Haikun Huang, Lap-Fai Yu},
+title={Exertion-Aware Path Generation},
+booktitle={ACM Transactions on Graphics},
+volume = {39},
+number = {4},
+year={2020}
+}
