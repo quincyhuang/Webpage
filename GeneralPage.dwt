@@ -1,6 +1,6 @@
 <!doctype html>
 <html> 
-<head>
+<head> 
 <meta charset="UTF-8" >
 <!-- TemplateBeginEditable name="doctitle" -->
 <title>Haikun Huang</title>
@@ -27,7 +27,7 @@
 <main> <!-- TemplateBeginEditable name="EditRegion Main" --> <!-- TemplateEndEditable --> </main>
 <!--	<hr>-->
 <footer>
-  <div class="footer">Copyright 2020 © Haikun (Quincy) Huang</div>
+  <div class="footer">Copyright 2021 © Haikun (Quincy) Huang</div>
 </footer>
 </body>
 </html>
