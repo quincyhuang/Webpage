@@ -1,3 +1,11 @@
+@inproceedings{audio,
+author={Wang, Yujia and Liang, Wei and Huang, Haikun and Zhang, Yongqi and Li, Dingzeyu and Yu, Lap-Fai}, 
+title={Toward Automatic Audio Description Generation for Accessible Videos}, 
+booktitle={Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},
+series = {CHI '21},
+year=2021, 
+publisher = {ACM},
+}
 
 @inproceedings{ambient,
 author = "Haikun Huang and Michael S. Solah and Dingzeyu Li and Lap-Fai Yu",
