@@ -1,3 +1,16 @@
+@ARTICLE{VRReview2021,
+AUTHOR={Xie, Biao and Liu, Huimin and Alghofaili, Rawan and Zhang, Yongqi and Jiang, Yeling and Lobo, Flavio Destri and Li, Changyang and Li, Wanwan and Huang, Haikun and Akdere, Mesut and Mousas, Christos and Yu, Lap-Fai},   
+TITLE={A Review on Virtual Reality Skill Training Applications},      
+JOURNAL={Frontiers in Virtual Reality},      
+VOLUME={2},      
+PAGES={49},     
+YEAR={2021},      
+URL={https://www.frontiersin.org/article/10.3389/frvir.2021.645153},       
+DOI={10.3389/frvir.2021.645153},      
+ISSN={2673-4192},   
+ABSTRACT={This study aimed to discuss the research efforts in developing virtual reality (VR) technology for different training applications. To begin with, we describe how VR training experiences are typically created and delivered using the current software and hardware. We then discuss the challenges and solutions of applying VR training to different application domains, such as first responder training, medical training, military training, workforce training, and education. Furthermore, we discuss the common assessment tests and evaluation methods used to validate VR training effectiveness. We conclude the article by discussing possible future directions to leverage VR technology advances for developing novel training experiences.}
+}
+
 @inproceedings{audio,
 author={Wang, Yujia and Liang, Wei and Huang, Haikun and Zhang, Yongqi and Li, Dingzeyu and Yu, Lap-Fai}, 
 title={Toward Automatic Audio Description Generation for Accessible Videos}, 
