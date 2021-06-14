@@ -1,3 +1,10 @@
+@inproceedings{icir21,
+author={Amilcar Gomez Samayoa and Javier Talavera and Siem G. Sium and Biao Xie and Haikun Huang and Lap-Fai Yu},
+title={Building a Motion-Aware, Networked Do-It-Yourself Holographic Display}, 
+booktitle={IEEE International Conference on Intelligent Reality},
+year={2021}
+}
+
 @ARTICLE{VRReview2021,
 AUTHOR={Xie, Biao and Liu, Huimin and Alghofaili, Rawan and Zhang, Yongqi and Jiang, Yeling and Lobo, Flavio Destri and Li, Changyang and Li, Wanwan and Huang, Haikun and Akdere, Mesut and Mousas, Christos and Yu, Lap-Fai},   
 TITLE={A Review on Virtual Reality Skill Training Applications},      
