@@ -1,3 +1,21 @@
+@article{teleport,
+    author = {Changyang Li and Haikun Huang and Jyh-Ming Lien and Lap-Fai Yu},
+    title = {Synthesizing Scene-Aware Virtual Reality Teleport Graphs}, 
+    journal = {ACM Transactions on Graphics},
+    volume = {40},
+    number = {6},
+    year = {2021}
+}
+
+@article{workplace,
+    author = {Yongqi Zhang and Haikun Huang and Erion Plaku and Lap-Fai Yu},
+    title = {Joint Computational Design of Workspaces and Workplans}, 
+    journal = {ACM Transactions on Graphics},
+    volume = {40},
+    number = {6},
+    year = {2021}
+}
+
 @inproceedings{icir21,
 author={Amilcar Gomez Samayoa and Javier Talavera and Siem G. Sium and Biao Xie and Haikun Huang and Lap-Fai Yu},
 title={Building a Motion-Aware, Networked Do-It-Yourself Holographic Display}, 
